@@ -1,4 +1,4 @@
-# Customer Service Chatbot - ECommerce
+# Customer Service Chatbot - eCommerce
 
 ## Overview
 This project is a customer service chatbot built using Streamlit and Langchain. The chatbot is designed to assist users with inquiries related to orders, shipments, and other customer service needs.
