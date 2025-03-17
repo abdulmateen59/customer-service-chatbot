@@ -1,0 +1,6 @@
+.evn
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+src/customer_service_chatbot/.env
